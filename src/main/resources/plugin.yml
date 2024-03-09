@@ -1,0 +1,4 @@
+name: ItemTyping
+version: '${version}'
+main: com.github.hynj01.itemtyping.ItemTyping
+api-version: '1.20'
